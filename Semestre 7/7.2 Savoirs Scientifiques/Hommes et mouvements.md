@@ -5,3 +5,10 @@
 + **Willi Hennig** : 1913-1976 a dévelopé la classification phylogénétique moderne, la systématique et les clades.
 + **Charles Darwin** : 1859 l'évolution des espèces.
 
+* Jérôme Guedj : Mathématiques et pouvoir
+* Grotemdiek 
+
+* Science internaliste 
+* Science externaliste considère aussi les relations entre science et société.
+
+

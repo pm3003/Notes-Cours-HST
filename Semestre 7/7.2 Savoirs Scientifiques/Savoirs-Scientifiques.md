@@ -84,7 +84,10 @@ Terme d'évolution : très peu utilisé par Darwin, pour un biologiste l'évolut
 Évolution : connotation positive, progrès.
 Finalisme : évolution tracée à l'avance.
 
+Utilisations abusives des théories en les applicants aux champs sociaux.
+Influence des préjugés issus des théories scientifiques ou pseudo-scientifiques.
 
+Exemple: Le racisme, l'influence du positivisme et de l'évolutionnisme social et technologique, lien avec les idéologies du progrès et du développement infini.
 
 ## 2 - Physique
 
@@ -170,11 +173,33 @@ Vers 3000 avant JC l'écriture devient phonétique et les mots apparaissent. L'�
 
 #### 1.6 Qui pouvait ou savait écrire ?
 
-Les notions de bases de la lecture et de l'écriture étaient très répandues. L'alphabétisation dépend du métier. Le scribe contrairement à l'Egypte n'est pas une élite. "Scribe"=toute personne alphabétisée qui écrit.
-
-
+Les notions de bases de la lecture et de l'écriture étaient très répandues. L'alphabétisation dépend du métier. Le scribe contrairement à l'Egypte n'est pas une élite. "Scribe"=toute personne alphabétisée qui écrit. Scribes femmes.
 
 
 ### 2 Que savaient les Mésopotamiens des Mathématiques ?
+
+Pas de mot pour les Mathématiques. Jusqu'au dernières décennies ces mathématiques étaient considérées rudimentaires.
+
+Statut spécial pour les mathématiques, comparable à la divination, à la mßedecine.
+
+Calculis : jetons et boules d'argiles. Les boules d'argiles sont applaties et les jetons y sont imprimés.
+Les unités sont représentées par des encoches et des ronds de deux tailles différentes. 
+On les remplace petit à petit par des signes cunéiformes.
+
+#### 2.1 Les types de textes et pratiques mathématiques
+
+Les tables de calcul : les plus nombreuses. Exemples : Tables de multiplication.
+Textes de problèmes avaec ou sans solutiions. Calculs d'intérêt, Énoncés abstraits d'entraînement, Problèmes de répartition, de la vie quotidiennes, travaux de canalisations...
+
+* Mises en page et formulation standard de la rédaction.
+* Solution souvent sous forme d'algorithme.
+* Raisonnement par position fausse (genre tangente de Newton).
+* Jamais de formules pour les problèmes, on a toujours recours aux tables de multiplication, d'inverse ou de racines carrés.
+
+Exercices d'écoliers : Souvent des copies de listes de calculs.
+Cursus d'apprentissage :
+1) Signes cunéiformes basiques
+2) Liste de termes thématiques (listes lexicales : arbbres, pierres), poids et mesures
+3) Tables numériques, modèles de contrat, proverbes sumériens ou akkadiens, problèmes mathématiques.
 ### 3 Exercices...
 
