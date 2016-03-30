@@ -19,7 +19,7 @@ Didactiques des Sciences : Sylvain Laubé
 Didactiques de l'Histoire : Didier Cariou
 Ingénieur en Informatique : 
 Conférenciers
-
+<
 ## **1er cours**
 
 ### 1. Enseignement des sciences : des attendus institutionnels

@@ -89,6 +89,12 @@ Influence des préjugés issus des théories scientifiques ou pseudo-scientifiqu
 
 Exemple: Le racisme, l'influence du positivisme et de l'évolutionnisme social et technologique, lien avec les idéologies du progrès et du développement infini.
 
+
+#### Textes étudiés en TD
+
+Textes classiques tirés de l'oeuvre de Linné, Lamarck, Bory de Saint-Vincent et Darwin sur la place de l'humain parmi les animaux.
+
+
 ## 2 - Physique
 
 Bruno Rohou, enseignant au collège en Physique Chimie et Mathématiques.
@@ -114,17 +120,84 @@ Le gaz
 Le liquide
 Le solide.
 
-## 3 - Astronomie
+## 3 - Astronomie - Sylvain Laubé
 
-### 1 - Le système solaire
+### Fondements
+
+#### 1 - Le système solaire
 Lois de Kepler.
 Proportionnalité des représentations.
 Trajectoires plutot circulaires des planètes (sauf Mercure e= 0,2).
 Comètes : La queue de la comète pointe du côté opposé au soleil (évaporation).
-### 2 - Le système Terre-Lune-Soleil
 
-### 3 - Le système Terre-Soleil
+#### 2 - Le système Terre-Lune-Soleil
+
+#### 3 - Le système Terre-Soleil
 Attention à la duee du jour, la notion d'heure, etc.
+
+### Modèles Ptoléméens et Coperniciens
+
+Exemple Apian, *Cosmographia*. Notion de mouvements naturels des corps, selon les 4 éléments. Propriétés de gravité et de légèreté (le feu s'élève)
+Idée de Sphère des Étoiles.
+
+#### Les problèmes de modélisation
+
+Les astronomes grecs avaient constaté que la théorie des mouvements circulaires ne rendait pas parfaitement compte de la trajectoire des planètes. Mouvements rétrogrades, changements de mluminosité etc..
+
+Le premier à s'attaquer au problème est Appolonios de Perga, dit le grand géomètre.
+
+Modèle épicycle / déférent pour reproduire des mouvements qui semblent rétrogrades. On arrive à un modèle à plus de 80 cercles différents et au refus de la proposition aristotélicienne du **mouvement uniforme des corps célestes**. La théorie géocentrique reste la plus précise jusqu'à Copernic (*De Revolutionibus orbium celestium*, 1543, Nürnberg).
+
+#### La Révolution Copernicienne
+
+La Terre et les Planètes tournent autour du Soleil. La Lune tourne autour de la Terre.
+Le modèle retrouve les principes aristotéliciens de perfection et de mouvements uniformes.
+L'idée est plus proche d'Aristote que de nos modèles actuels.
+
+##### Objections au modèle de Copernic:
+Jusqu'au milieu du XVIIème siècle l'héliocentrisme est considéré comme impossible.
+Incompatibilité avec la théorie aristotélicienne du mouvement, et plus largement avec la représentation aristotélicienne du monde qui est considérée comme **vraie**.
+
+Notions de vitesse innée par exemple.
+Vents (cf Coriolis ;-) ).
+
+Perte de l'explicationn du mouvement par le rejet de la théorie aristotélicienne, prte non compensée jusqu'à Galilée voire Newton.
+
+#### Tycho Brahe 1546-1601
+Astronome. Tables de données très précises.
+Le quadrant sextant de 90°, 4,6m de diamètre.
+Tycho Brahe a inventé de très nombreux instruments de mesure.
+
+Il propose suite à ses observations un modèle pas tout à fait copernicien. La sphère des étoiles est centrée sur la Terre.
+Très précis mathématiquement. Ses observations ont été la base pour Kepler.
+
+#### Johannes Kepler 1571-1630
+Astronomia nova. 
+Kepler compare les modèles de Copernic, Ptolémée, et Tycho Brahe.
+* Il montre que les planètes suivent des trajectoires ellipsoides, grace aux mesures de Tycho Brahe.
+* La droite joignant la planète au Soleil balaie des aires égales en des temps égaux (conservation des moments cinétiques).
+* T²=kr³ 
+
+#### Galilée
+
+Discours et démonstrations mathématiques : Leyde 1638 théories du mouvement, résumé du "Dialogue sur les deux grands systèmes du monde, copernicien et ptoléméen".
+Il se construit une lunette, grossissement de l'ordre de 20 à 30 (issue du monde militaire). Il améliorera sans cesse ses lunettes et "téléscope".
+
+Galilée observe les tâches solaires. Ses observations lézardent l'harmonie et la beauté du monde. Il observe le relief de la Lune.
+Rotation apparente de la surface du soleil.
+
+Objection des aristotéliciens : Impossible car les corps célestes sont parfaits donc sphériques. Certains refusent de regarder dans la lunette, prétendesnt qu'elle crée des illusions.
+
+Le père Clavius fait des observations semblables mais prétend que les montagnes et les vallées de la Lune sont recouvertes d'une substance transparente qui lui redonne sa sphércité.
+
+Galilée et Kepler correspondaient, et avaient des codes par anagramme.
+Le messager céleste.
+
+Découverte des satellites de Jupiter.
+Le Dialogue : Simplicio (aristotélicien), Salviati (Galilée), Sagredo (l'honnête homme).
+Forme de présentation et de médiation, connaissance et réfutation de la théorie aristotélicienne.
+
+
 
 ## 4 - Les Mathématiques en Mésopotamie - Maeva Booudjema.
 
@@ -202,4 +275,69 @@ Cursus d'apprentissage :
 2) Liste de termes thématiques (listes lexicales : arbbres, pierres), poids et mesures
 3) Tables numériques, modèles de contrat, proverbes sumériens ou akkadiens, problèmes mathématiques.
 ### 3 Exercices...
+
+
+## 5 - Sciences de la Terre - Pierre Savaton
+
+### La dérive des cntinents, la tectonique des plaques
+
+#### La thèse d'Alfred Wegener
+Proposée pendant la Première Guerre Mondiale.
+
+Naomi Oreskes *The rejection of continental drift, Theory and Methode in American Earth Science*
+Théorie des translations. Thèse **mobiliste**. Thèse **inductive**, qui va trouver des soutiens dans les soutiens de la science inductive (les derniers) et des contradicteurs chez les déductivistes. Il est aussi victime d'antigermanisme suivant la Première Guerre Mondiale.
+
+La théorie de Wegener, séduisante, s'oppose radicalement à la compréhension de l'histoire des continents de l'époque. Il bénéficie du soutien du grand géologue Émile Argand (1879-1940), qui a fait beaucoup d'observations sur le terrain. 
+
+> Aucun de ses faits (Wegener) de démontre, en rigueur, la théorie mobiliste ou l'hypothèse de la présence du sima, mais tous s'accordent parafaitement avec l'une et avec l'autre au point de les rendre très vraisemblables.
+
+> La validité d'une théorie n'est rien d'autre que son aptitude à représenter des faits connus au moment où elle a cours. À ce compte, la théorie des grandes translations continentales est d'une validité florissante.
+
+Contradicteurs de Wegener :  Terre solide (William Thompson) sinon les marées (l'attraction Terre-Lune) aurait des effets visibles. Reginald Daly : Terre solide avec une croûte de 35 km. (Années 1920).
+
+**Début du 20ème siècle : **Observations sismiques qui conduisent à de nouvelles observations. Johann Wiechert, 1906 : Modèle sismique de la Terre à 3 couches avec noyau métallique.
+Gutenberg : La LVZ et le noyau, la croûte à 50 km (Mohorovicic -> le Moho).
+Beno Gutenberg est incontournable. Il fonde une ßecole au États-Unis parmi ses ´elèves on trouvera Richter. La LVZ est une partiie du manteau vers 50km. Il l'explique par un noyau externe liquide qui présente des mouvements de convexion (comme les mouvements d'eau de la casserole d'eau qui chauffe. Le lien ne se fit pas avec Wegener. On dßecouvrira plus tard les différentes discontinuités du manteau / noyau.
+
+Harold Jeffreys est un grand opposant à Wegener. Il est le grand opposant à Wegener. Pour lui la thèse de Wegener s'est construite par induction et n'est pas physiquement explicable. Contrairement à Emile Argand.
+
+> Il faut partir des données physique pour en extrapoler un modèle...
+
+**Reproche fait à Wegener** : il manque de moteurs, les forces qu'il imagine (rotation de la Terre, force centrifuge) sont insuffisantes. John Joly (1857-1933), Gerhard Kirsch (convexion, radioactivité, mouvements intrinsèques au magma) ont à la même époque trouvé des moteurs, mais le lien ne se fait pas.
+
+**Arthur Holmes (1890-1965)**
+Défend aussi la radioactivité.
+Ses thèses auraient aussi pu appuyer la thèse de Wegener.
+
+#### De la dérive des continents à la tectonique des plaques.
+
+Pôles magnétiques. Paul Mercanton : Paléomagnétisme et mise en évidence d'inversion passée et possible du champ magnétique terrestre (CMT). Des années 1920 à la fin des années 1940, on a plusieurs théories et plusieurs écoles quant à la nature du CMT. Edward Bullard 1949 CMT produit par courants de convection.
+
+
+
+
+Patrick Blackett (1947): "Tout corp céleste en rotation produit un champ magnétique. Coincidence entre l'axe de rotation de la Terre et l'axe du CMT, jusqu'à il y a environ 1Mio d'années.
+
+Equipe Blackett: Construction du magnétomètre astatique. Échec dans la mesure de champs induits par rotation de masses (1952). Mesures sur échantillons de roches sédimentaires. Mesures du paléomagnétisme. Conclusions : Rapprochement du pôle et rotation de 34°. Fait en Angleterre sur des grès du Précambrien au Trias. 
+
+Hypothèse 1: mobilité des continents. Hypothèse 2: mobilité du pôle.
+
+Runcorn (avec Creer et Irving) suit Blackett, fait des observations cohérentes mais ne retient que la migration du pôle (polar wandering).
+
+Selon modèle de Blackett ; Inversion du CMT = inversion du sens de rotation.
+
+Selon Louis Néel : Inversion du CMT = inversion d'une propriété des roches, pas de lien direct avec le CMT comme CM du globe.
+
+Mais convergence dans les années 1960 sur l'existence d'inversions du CMT.
+
+Runcorn arrive à deux tracés en fonction des roches d'europe ou d'amérique. La solution : réunion des continents pour juxtaposer les deux courbes.
+
+Les reconstitutions paléogéographiques deviennent d'un intérêt majeur pour l'industrie pétrolière.
+
+
+La preuve de la thèse mobiliste n'est apportée que dans les années 1960, avec à la chronologie d'inversion du CMT. La connexion a toujours du mal à se faire avec Wegener.
+
+
+
+
 
